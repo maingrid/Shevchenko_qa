@@ -4,3 +4,7 @@
 ---
 
 [Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1FHJfxj0bRY31VbX2E6h0-G0TRNjDD3qVkjrj6GVbPHU/edit?usp=sharing)
+
+---
+
+[Пример моего тест - плана](https://docs.google.com/spreadsheets/d/1zQiNtmcnvupqrpBWBPsAdc2cAyThAblBFdGVY0Tbosw/edit?usp=sharing)
